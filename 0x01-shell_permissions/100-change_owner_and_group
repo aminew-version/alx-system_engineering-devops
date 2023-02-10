@@ -1,0 +1,3 @@
+#!/bin/bash
+sudo chown -a vincent ./
+chgrp -a staff ./
