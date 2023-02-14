@@ -1,1 +1,1 @@
-This read me file contains:-
+0. This script is written to create alias named 'ls' and whose its value equal to rm *
