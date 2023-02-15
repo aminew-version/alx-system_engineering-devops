@@ -1,2 +1,2 @@
 #!/bin/bash
-echo ibase=bestchol $(('ibase=water;$WATER'+'ibase=stir;$STIR ))
+echo ibase=bestchol $(('ibase=water $WATER'+'ibase=stir $STIR ))
